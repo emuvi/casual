@@ -125,7 +125,7 @@ public class TestListOrArray {
   }
 
   public static void main(String[] args) throws Exception {
-    System.out.println("Testing between List or Array, wich one is fast.");
+    System.out.println("Testing between List or Array, which one is fast.");
     var winners = new HashMap<String, Integer>();
     for (int i = 0; i < 100_000; i++) {
       var winner = getWinner(makeSource());
