@@ -1,0 +1,19 @@
+Successfully deleted: 000834 of 07125712000186
+Successfully deleted: 006248 of 21065660000120
+Successfully deleted: 003588 of 85379816000120
+Successfully deleted: 007105 of 72332794000100
+Successfully deleted: 004036 of 11758701000100
+Was not possible to delete: 007125 of 47815302904
+Was not possible to delete: 007126 of 47815302904
+Successfully deleted: 005441 of 07384125000101
+Successfully deleted: 007019 of 30312826000157
+Successfully deleted: 007222 of 62585215920
+Successfully deleted: 002581 of 86967163000163
+Successfully deleted: 000585 of 00059776000187
+Successfully deleted: 006316 of 21852020000160
+Successfully deleted: 007104 of 83470898000199
+Successfully deleted: 004907 of 09268630000116
+Successfully deleted: 000847 of 04356442000126
+Successfully deleted: 006883 of 27074916000142
+Was not possible to delete: 007380 of 31812386000160
+Was not possible to delete: 007393 of 31812386000160

@@ -1,0 +1,51 @@
+Successfully deleted: 001259 of 04868513000170
+Successfully deleted: 004076 of 09502725824
+Successfully deleted: 000886 of 05569973958
+Successfully deleted: 006677 of 90971574987
+Successfully deleted: 006841 of 24129113000150
+Successfully deleted: 003022 of 58000631920
+Successfully deleted: 003242 of 02843491000168
+Successfully deleted: 002314 of 03714611000190
+Successfully deleted: 003183 of 03558968000126
+Successfully deleted: 005640 of 05993418907
+Successfully deleted: 006192 of 18906804000110
+Successfully deleted: 003249 of 80408131000141
+Successfully deleted: 003040 of 10669788000187
+Successfully deleted: 001604 of 95756318000103
+Was not possible to delete: 002409 of 03851695000103
+Successfully deleted: 007013 of 03851695000103
+Successfully deleted: 006059 of 07139372000142
+Was not possible to delete: 003013 of 23000536000102
+Was not possible to delete: 006597 of 23000536000102
+Successfully deleted: 005026 of 67735975953
+Successfully deleted: 000825 of 82969312000172
+Successfully deleted: 005490 of 14309817000150
+Successfully deleted: 001711 of 76360650000100
+Successfully deleted: 000842 of 05494598000136
+Was not possible to delete: 007253 of 10883135000104
+Was not possible to delete: 007311 of 10883135000104
+Was not possible to delete: 004275 of 07439329000100
+Was not possible to delete: 007503 of 07439329000100
+Successfully deleted: 006633 of 20970614000103
+Successfully deleted: 003200 of 04308884000369
+Successfully deleted: 001658 of 07517589000149
+Successfully deleted: 006357 of 06038930000110
+Was not possible to delete: 000458 of 17364484000150
+Successfully deleted: 006051 of 17364484000150
+Successfully deleted: 004183 of 10837183000158
+Successfully deleted: 004470 of 78665791000166
+Was not possible to delete: 004420 of 40432544019166
+Was not possible to delete: 007227 of 40432544019166
+Successfully deleted: 004993 of 11151211000141
+Successfully deleted: 004847 of 06120183000165
+Was not possible to delete: 000436 of 10529400000142
+Successfully deleted: 006889 of 10529400000142
+Successfully deleted: 007088 of 04276107000118
+Successfully deleted: 001938 of 06787293000185
+Successfully deleted: 003549 of 10655578000130
+Successfully deleted: 005839 of 06098596000190
+Successfully deleted: 003709 of 09628289000162
+Successfully deleted: 007144 of 73519498000177
+Successfully deleted: 004959 of 83062661000179
+Was not possible to delete: 002277 of 12234412000175
+Successfully deleted: 006040 of 12234412000175
