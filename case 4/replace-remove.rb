@@ -1,12 +1,13 @@
 require 'pg'
 
-uri = URI.parse(ENV['LINK_FLEXPEL'])
+uri = URI.parse(ENV['LINK_INCORPEL'])
 link = PG.connect :host => uri.hostname, :port => uri.port, :dbname => uri.path[1..-1], :user => uri.user, :password => uri.password
 
 Trasition = Struct.new(:toRemove, :toMaintain)
 transitions = [
-  Trasition.new("007380", "007393"),
-  Trasition.new("007125", "007126"),
+  Trasition.new("006597", "003013"),
+  Trasition.new("007253", "007311"),
+  Trasition.new("004275", "007503"),
 ]
 
 transitions.each do |transition|
@@ -42,6 +43,8 @@ transitions.each do |transition|
   " WHERE entrega = '" + transition.toRemove + "'"
   link.exec "UPDATE prepedidos SET representante = '" + transition.toMaintain + "'" +
   " WHERE representante = '" + transition.toRemove + "'"
+  link.exec "DELETE FROM pessoas_comissoes" +
+  " WHERE pessoa = '" + transition.toRemove + "'"
   link.exec "DELETE FROM pessoas" +
   " WHERE codigo = '" + transition.toRemove + "'"
 end
