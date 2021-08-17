@@ -12,24 +12,24 @@ print('Logs: ' + logs)
 def __hasTokens(row):
     if len(row) == 4:
         return row[1].startswith('Feeding:') and row[2].startswith('Checker:') \
-        and row[3] == 'Success!'
+            and row[3] == 'Success!'
     else:
         return False
 
 
 def __getTokens(row):
-    name = row[1][row[1].rfind('/') +1:].strip()
-    checker = row[2][row[2].find(':') +1:].strip()
+    checker = row[2][row[2].find(':') + 1:].strip()
+    file_name = row[1][row[1].rfind('/') + 1:].strip()
     first_level = checker[0:3]
     second_level = checker[3:6]
     lookup = os.path.join(body, first_level, second_level, checker, 'org-*')
     founds = glob.glob(lookup)
     for found in founds:
-        print(found)
-    print(name)
-    print(checker)
-    print(first_level)
-    print(second_level)
+        print("Found: " + found)
+        print("Name: " + file_name)
+        print("Checker: " + checker)
+        print("First: " + first_level)
+        print("Second: " + second_level)
 
 
 if __name__ == '__main__':
@@ -40,6 +40,3 @@ if __name__ == '__main__':
             for row in reader:
                 if __hasTokens(row):
                     __getTokens(row)
-
-
-
