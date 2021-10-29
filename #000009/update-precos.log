@@ -1,0 +1,2003 @@
+Updating preços...
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '001' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '001')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '004' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '004')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '011' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '011')
+Updated successfully a total of: 1 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '012' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '012')
+Updated successfully a total of: 5 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '018' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '018')
+Updated successfully a total of: 19 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '025' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '025')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '031' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '031')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '043' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '043')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '050' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '050')
+Updated successfully a total of: 39 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '051' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '051')
+Updated successfully a total of: 23 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '052' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '052')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '061' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '061')
+Updated successfully a total of: 10 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '01' subgrupo: '063' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '01' AND subgrupo = '063')
+Updated successfully a total of: 13 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '001' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '001')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 6 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '003' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '003')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '004' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '064' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '064')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 3 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '02' subgrupo: '081' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '02' AND subgrupo = '081')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 46 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '004' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '004')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 32 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '005' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '005')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 4 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '006' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '006')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 12 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '007' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '007')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '008' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '008')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 26 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '010' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '010')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NOREXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NOREXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'NORRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'NORRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 14 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENINT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENINT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENILH'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENILH' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENITA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENITA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENFX'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFX' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENEXT'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENEXT' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENLAG'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENLAG' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENIA'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENIA' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENRS'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRS' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENFEF'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENFEF' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updating on grupo: '03' subgrupo: '011' tabela: 'SENRJ'...
+Command: UPDATE precos SET valor = valor * 1.05 WHERE tabela = 'SENRJ' AND produto IN (SELECT codigo FROM produtos WHERE grupo = '03' AND subgrupo = '011')
+Updated successfully a total of: 0 records.
+-------------------------------
+Updated everthing successfully.
