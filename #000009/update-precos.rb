@@ -102,6 +102,7 @@ produtos.each do |produto|
               " WHERE tabela = '" + tabela_principal + "'" +
               " AND produto = '" + item + "'"
     puts "Comando: " + command
+    link.exec command
   end
 
   tabelas.each do |tabela|
@@ -111,14 +112,15 @@ produtos.each do |produto|
              " no grupo: '" + produto.grupo + "' e subgrupo: '" + produto.subgrupo + "'" +
              " com o fator: '" + tabela.fator.to_s() + "' da origem: '" + tabela.origem + "'"
       items.each do |item|
-        command = "UPDATE precos SET valor = (" +
+        command = "UPDATE precos SET valor = coalesce((" +
                   " SELECT valor FROM precos" +
                   " WHERE tabela = '" + tabela.origem + "'" +
                   " AND produto = '" + item + "'" +
-                  " ) * " + tabela.fator.to_s() +
+                  " ), 0.0) * " + tabela.fator.to_s() +
                   " WHERE tabela = '" + tabela.destino + "'" +
                   " AND produto = '" + item + "'"
         puts "Comando: " + command
+        link.exec command
       end
     end
     if tabela.somar != 0.0
@@ -127,14 +129,15 @@ produtos.each do |produto|
              " no grupo: '" + produto.grupo + "' e subgrupo: '" + produto.subgrupo + "'" +
              " com o somar: '" + tabela.somar.to_s() + "' da origem: '" + tabela.origem + "'"
       items.each do |item|
-        command = "UPDATE precos SET valor = (" +
+        command = "UPDATE precos SET valor = coalesce((" +
                   " SELECT valor FROM precos" +
                   " WHERE tabela = '" + tabela.origem + "'" +
                   " AND produto = '" + item + "'" +
-                  " ) + " + tabela.somar.to_s() +
+                  " ), -0.1) + " + tabela.somar.to_s() +
                   " WHERE tabela = '" + tabela.destino + "'" +
                   " AND produto = '" + item + "'"
         puts "Comando: " + command
+        link.exec command
       end
     end
   end
