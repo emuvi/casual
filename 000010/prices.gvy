@@ -14,7 +14,7 @@ def clean = {
     println "Cleaned."
 }
 
-clean()
+// clean()
 
 def dump = { name ->
     println "Dumping " + name + "..."
@@ -33,7 +33,7 @@ def dump = { name ->
     println "Dumped " + name + "."
 }
 
-dump("antes.csv")
+// dump("antes.csv")
 
 class Mutation {
     String grupo
@@ -82,7 +82,7 @@ def mutate = {
     println "Finished the mutation."
 }
 
-mutate()
+// mutate()
 
 enum By {
   MULT,
@@ -103,7 +103,7 @@ def relate = {
         new Relation(destiny: "NORILH", origin: "NORINT", maked: By.MULT, to: 1.01),
         new Relation(destiny: "SENILH", origin: "SENINT", maked: By.MULT, to: 1.01),
         new Relation(destiny: "NORITA", origin: "NORILH", maked: By.ADDS, to: 0.01),
-        new Relation(destiny: "SENITA", origin: "NORILH", maked: By.ADDS, to: 0.01),
+        new Relation(destiny: "SENITA", origin: "SENILH", maked: By.ADDS, to: 0.01),
         new Relation(destiny: "NORFX", origin: "NORINT", maked: By.MULT, to: 1.015),
         new Relation(destiny: "SENFX", origin: "SENINT", maked: By.MULT, to: 1.015),
         new Relation(destiny: "NOREXT", origin: "NORINT", maked: By.MULT, to: 1.02),
@@ -137,9 +137,9 @@ def relate = {
     println "Finished the relation."
 }
 
-relate()
+// relate()
 
-dump("depois.csv")
+// dump("depois.csv")
 
 sql.close()
 println "Sucessfully Closed!"
