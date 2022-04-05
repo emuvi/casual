@@ -1,6 +1,6 @@
 @GrabConfig(systemClassLoader=true)
 @Grab(group='org.postgresql', module='postgresql', version='42.3.3')
-def url = System.getenv('LINK_INCORPEL')
+def url = System.getenv('CLIENT_JDBC')
 println "Connecting to database..."
 def link = java.sql.DriverManager.getConnection(url)
 println "Sucessfully connected!"

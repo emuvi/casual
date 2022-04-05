@@ -1,0 +1,6 @@
+@Grab(group='br.net.pin', module='Batx', version='0.1.0')
+def source = System.getenv('CLIENT_CONN')
+def connector = br.net.pin.batx.Connector.fromString(source)
+def exporter = new br.net.pin.batx.CSVExport(connector, new File('dump'))
+exporter.start()
+exporter.join()
